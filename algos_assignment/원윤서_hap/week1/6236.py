@@ -20,3 +20,5 @@ while lt <= rt:
         k = mid		
 
 print(k)
+
+#출처: https://velog.io/@deannn/BOJ-%EB%B0%B1%EC%A4%80-6236-%EC%9A%A9%EB%8F%88%EA%B4%80%EB%A6%AC-Python
