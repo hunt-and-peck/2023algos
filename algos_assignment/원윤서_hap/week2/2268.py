@@ -30,3 +30,5 @@ for i in range(M):
         print(Sum(1 , 0 , N-1, A-1 , B-1))
     else:
         Modify(1, 0, N-1, A-1, B)
+
+# 출처: https://velog.io/@030831/%EB%B0%B1%EC%A4%80-2268-%EC%88%98%EB%93%A4%EC%9D%98-%ED%95%A9-7-Python
